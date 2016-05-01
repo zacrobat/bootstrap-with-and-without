@@ -4,6 +4,8 @@ body {
     font-weight: 400;
     font-size: 16px;
     line-height: 170%;
+    min-height: 2000px; //bootstrap
+    padding-top: 70px; //bootstrap
 }
 p {
     margin: 18px 0;
@@ -22,7 +24,7 @@ section {
 }
 header {
     nav {
-        margin: 20px;
+        // margin: 20px;
         ul {
             padding-left: 0;
             li {

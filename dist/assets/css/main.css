@@ -190,6 +190,8 @@ body {
   font-weight: 400;
   font-size: 16px;
   line-height: 170%;
+  min-height: 2000px;
+  padding-top: 70px;
 }
 
 p {
@@ -210,9 +212,6 @@ section .inner {
   transform: translate(-50%, -50%);
 }
 
-header nav {
-  margin: 20px;
-}
 header nav ul {
   padding-left: 0;
 }
